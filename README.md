@@ -1,0 +1,1 @@
+This project requires the latest version of Python. Run the "run.py" file. Press F7 key to exit BSOD. Use VLC Media Player for the best experience.
